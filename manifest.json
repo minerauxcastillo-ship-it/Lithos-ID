@@ -1,19 +1,19 @@
 {
   "name": "Lithos ID",
   "short_name": "Lithos ID",
-  "description": "Identificación y gestión de colecciones de minerales con rigor científico y precisión forense.",
+  "description": "IdentificaciÃ³n y gestiÃ³n de colecciones de minerales con rigor cientÃ­fico y precisiÃ³n forense.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0f766e",
   "icons": [
     {
-      "src": "{{DATA:IMAGE:IMAGE_18}}",
+      "src": "{{DATA:IMAGE:IMAGE_22}}",
       "sizes": "114x114",
       "type": "image/png"
     },
     {
-      "src": "{{DATA:IMAGE:IMAGE_19}}",
+      "src": "{{DATA:IMAGE:IMAGE_23}}",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
