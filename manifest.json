@@ -1,23 +1,18 @@
-{
-  "name": "Lithos ID",
+"name": "Lithos ID",
   "short_name": "Lithos ID",
-  "description": "Identificaci\u00f3n y gesti\u00f3n de colecciones de minerales con rigor cient\u00edfico y precisi\u00f3n forense.",
-  "start_url": "./index.html",
+  "description": "Identificación y gestión de colecciones de minerales con rigor científico y precisión forense.",
+  "start_url": "/Lithos-ID/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0f766e",
   "icons": [
     {
-      "src": "{{DATA:IMAGE:IMAGE_17}}",
-      "sizes": "114x114",
-      "type": "image/png"
-    },
-    {
-      "src": "{{DATA:IMAGE:IMAGE_17}}",
+      "src": "https://raw.githubusercontent.com/minerauxcastillo-ship-it/Lithos-ID/main/assets/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "scope": "/Lithos-ID/"
 }
